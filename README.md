@@ -35,6 +35,9 @@ Track players across frames using Norfair
 
 Save the result in output.mp4
 
+link to YOLO weights
+https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+
 🧠 Components
 
 YOLOv11 Detector (detector.py): Detects players in each frame.
@@ -59,9 +62,6 @@ Only class 0 (players) are tracked. Ball tracking can be added similarly.
 
 Detection threshold can be tuned in detector.py.
 
-📫 Contact
-
-For questions, feel free to contact the developer or raise an issue on the submission platform.
 
 Submitted as part of the Player Re-Identification Assignment (June 2025)
 
